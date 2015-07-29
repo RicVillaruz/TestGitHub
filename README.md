@@ -1,2 +1,2 @@
 # TestGitHub
-just a test github repository for learning stuff
+just a test github repository
